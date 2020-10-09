@@ -1,0 +1,32 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #082a33;
+}
+h1 {
+  font-size: 85px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 61;
+  font-weight: normal;
+}
+
+nav a {
+  text-decoration: none;
+}
+nav li {
+  display: inline-block;
+}
+nav ul {
+  padding: 0px;
+}
+
+nav a {
+  color: #082a33;
+}
+footer nav a {
+  color: red;
+}
+nav a:hover {
+  text-decoration: underline;
+}
